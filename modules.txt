@@ -1,0 +1,5 @@
+dpkt
+colorama
+scapy
+prettytable
+pyfiglet
